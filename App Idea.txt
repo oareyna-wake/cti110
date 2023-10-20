@@ -1,0 +1,1 @@
+The app idea that we came up with consisted of a game in which 4 people would control one character to complete a series of tasks either online or on a local server.
